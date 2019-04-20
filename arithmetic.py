@@ -3,16 +3,12 @@
 
 def add(num1, num2):
     """Return the sum of the two inputs."""
-    answer = num1 + num2
-
-    return answer
-
-print(add(1, 2))
+    return num1 + num2
 
 
 def subtract(num1, num2):
     """Return the second number subtracted from the first."""
-
+    return num1 - num2
 
 def multiply(num1, num2):
     """Multiply the two inputs together."""
